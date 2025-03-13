@@ -2,4 +2,4 @@
 
 ![alt text](scheme.jpg)
 
-код в файле [code.txt](./code.txt)
+код в файле [code.cpp](./code.cpp)
